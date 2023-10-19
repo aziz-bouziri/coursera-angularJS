@@ -1,2 +1,2 @@
-# module1-solution
-Module 1 solution
+# coursera-angularJS
+This contains all my assignment solutions of the course
